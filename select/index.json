@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "タカラモノ～この声がなくなるまで～",
+  "base_artist": "Naoto",
+  "createdAt": "2026-02-12T10:45:34.899126Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "タカラモノ~この声がなくなるまで~",
+      "artist": "Naoto Intiraymi",
+      "has_synced": true,
+      "path": "select/01_タカラモノ~この声がなくなるまで~_Naoto_Intiraymi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "タカラモノ~この声がなくなるまで~",
+      "artist": "Naoto Inti Raymi",
+      "has_synced": true,
+      "path": "select/02_タカラモノ~この声がなくなるまで~_Naoto_Inti_Raymi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "タカラモノ～この声がなくなるまで～",
+      "artist": "Naoto Inti Raymi",
+      "has_synced": true,
+      "path": "select/03_タカラモノ~この声がなくなるまで~_Naoto_Inti_Raymi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "タカラモノ～この声がなくなるまで～",
+      "artist": "ナオト・インティライミ",
+      "has_synced": true,
+      "path": "select/04_タカラモノ~この声がなくなるまで~_ナオト・インティライミ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "タカラモノ～この声がなくなるまで～ - Takaramono - Konokoega Nakunarumade -",
+      "artist": "Naoto",
+      "has_synced": true,
+      "path": "select/05_タカラモノ~この声がなくなるまで~_-_Takaramono_-_Konokoega_Nakunarumade_-_Naoto.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "タカラモノ ～この声がなくなるまで～",
+      "artist": "ナオト・インティライミ",
+      "has_synced": false,
+      "path": "select/06_タカラモノ_~この声がなくなるまで~_ナオト・インティライミ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "タカラモノ～この声がなくなるまで～",
+      "artist": "ナオト・インティライミ",
+      "has_synced": false,
+      "path": "select/pl_01_タカラモノ~この声がなくなるまで~_ナオト・インティライミ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "タカラモノ～この声がなくなるまで～",
+      "artist": "ナオト・インティライミ",
+      "has_synced": false,
+      "path": "select/pl_02_タカラモノ~この声がなくなるまで~_ナオト・インティライミ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "タカラモノ~この声がなくなるまで~",
+      "artist": "ナオト・インティライミ",
+      "has_synced": false,
+      "path": "select/pl_03_タカラモノ~この声がなくなるまで~_ナオト・インティライミ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "タカラモノ〜この声がなくなるまで〜",
+      "artist": "ナオト・インティライミ",
+      "has_synced": false,
+      "path": "select/pl_04_タカラモノ〜この声がなくなるまで〜_ナオト・インティライミ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "タカラモノ~この声がなくなるまで~",
+      "artist": "ナオト・インティライミ",
+      "has_synced": false,
+      "path": "select/pl_05_タカラモノ~この声がなくなるまで~_ナオト・インティライミ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "タカラモノ~この声がなくなるまで~",
+      "artist": "ナオト・インティライミ",
+      "has_synced": false,
+      "path": "select/pl_06_タカラモノ~この声がなくなるまで~_ナオト・インティライミ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "タカラモノ～この声がなくなるまで～",
+      "artist": "ナオト・インティライミ",
+      "has_synced": false,
+      "path": "select/pl_07_タカラモノ~この声がなくなるまで~_ナオト・インティライミ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "タカラモノ~この声がなくなるまで~",
+      "artist": "ナオト・インティライミ",
+      "has_synced": false,
+      "path": "select/pl_08_タカラモノ~この声がなくなるまで~_ナオト・インティライミ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "タカラモノ~この声がなくなるまで~",
+      "artist": "ナオト・インティライミ",
+      "has_synced": false,
+      "path": "select/pl_09_タカラモノ~この声がなくなるまで~_ナオト・インティライミ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "タカラモノ ～この声がなくなるまで～",
+      "artist": "ナオト・インティライミ",
+      "has_synced": false,
+      "path": "select/pl_10_タカラモノ_~この声がなくなるまで~_ナオト・インティライミ.txt"
+    }
+  ]
+}
